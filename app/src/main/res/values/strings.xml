@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomDialog</string>
+    <string name="show_dialog_box">Show Dialog Box</string>
+    <string name="ok">OK</string>
+</resources>
